@@ -1,5 +1,5 @@
 - 👋 Hi, thanks for checking out my GitHub portfolio
-- 🛠️ Currently working with MLOps, LLMs and AI
+- 🛠️ Currently working with MLOps and GenAI
 - 💻 Hobby project wise I like coding challenges, hackathons and building small useful applications of different sorts
 - 🌱 Always on the look-out for new interesting tools and frameworks
 - 💛 Dogs and functional programming
