@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, thanks for checking out my GitHub portfolio
+- 🛠️ Currently working with MLOps, LLMs and AI
+- 💻 Hobby project wise I like coding challenges, hackathons and building small useful applications of different sorts
+- 🌱 Always on the look-out for new interesting tools and frameworks
+- 💛 Dogs and functional programming
+- 📸 Check out my YouTube channel with various programming tutorials: https://www.youtube.com/@tehlurdoftehcode
 
 <!--
 **codehound42/codehound42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
